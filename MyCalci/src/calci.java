@@ -372,7 +372,9 @@ public class calci {
 	            //push it back to stack
 	            numbers.push(output);
 	        }
-	        String s=Double. toString(d);
+	       
+	       
+	       // String expression = Double. toString(numbers);
 	        return numbers.pop();
 	    }
 
